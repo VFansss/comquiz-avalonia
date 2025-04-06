@@ -1,3 +1,16 @@
+❗❗❗ IMPORTANT NOTICE ❗❗❗
+
+A brand new web-based version of Comquiz is now available!
+It comes with modern features, a refreshed UI, and no installation required.
+
+👉 Try it now: https://github.com/VFansss/coquiz-web
+
+🚫 This version of the software is now considered deprecated and will no longer receive updates or support.
+
+We highly recommend switching to the new web version.
+
+❗❗❗
+
 # Comquiz
 
 **[📥 Download latest version](https://github.com/VFansss/comquiz/releases)** | [📝 Download quizzes](#download-quizzes) | [💡 Thanks & Legal](#thanks--legal)
